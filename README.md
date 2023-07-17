@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoBeerInHawaii
 - 👀 I’m interested in Programming, Cybersecurity, IT at all.
-- 🌱 I’m currently learning CyberSecurity 1st year.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CyberSecurity 3rd year.
+- 💞️ I’m looking to collaborate on C++ projects or malware related projects.
 - 📫 How to reach me contact me here or Discord: NoBeerInHawaii #5363
 
 <!---
